@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+
+body {
+    display: block;
+    margin: 8px;
+    padding: 20px;
+    background-color: cornflowerblue;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0;
+  }
+  
+
+  .mediumHeader {
+    color: blueviolet;
+  }
+  #instructions {
+    color: darkmagenta;
+  }
+  #mainHeading {
+    color: red;
+  }
+.funParagraph {
+    color:  green;
+  }
